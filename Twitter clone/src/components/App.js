@@ -3,6 +3,7 @@ import NewTweet from "./NewTweet";
 import TweetsContainer from "./TweetsContainer";
 
 class App extends Component {
+  //creation of state
   state = {
     Tweets: [
       {
